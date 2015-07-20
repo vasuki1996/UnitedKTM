@@ -1,0 +1,142 @@
+<!DOCTYPE HTML>
+<!--
+	Spectral by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>United KTM</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+	</head>
+	<body class="landing">
+
+		<!-- Page Wrapper -->
+			<div id="page-wrapper">
+
+				<!-- Header -->
+					<header id="header" class="alt">
+						<h1><a href="index.html">United KTM</a></h1>
+						<nav id="nav">
+							<ul>
+								<li class="special">
+									<a href="#menu" class="menuToggle"><span>Menu</span></a>
+									<div id="menu">
+										<ul>
+											<li><a href="index.html">Home</a></li>
+											<li><a href="generic.html">Recent Rides</a></li>
+<li><a href="UR.html">UPCOMING RIDES</a></li>
+<li><a href="M.html">MERCHANDISE</a></li>
+<li><a href="C.html">Contact US</a></li>
+											<li><a href="https://predatoros.typeform.com/to/Mjr9Tt">Sign Up</a></li>
+										</ul>
+									</div>
+								</li>
+							</ul>
+						</nav>
+					</header>
+
+				<!-- Banner -->
+					<section id="banner">
+						<div class="inner">
+							<h2>United KTM</h2>
+							<p>Reborn Masters Of The Mean Machines<br /></p>
+							<ul class="actions">
+								<li><a href="https://predatoros.typeform.com/to/Mjr9Tt" class="button special">Join US</a></li>
+							</ul>
+						</div>
+						<a href="#one" class="more scrolly">Learn More</a>
+					</section>
+
+				<!-- One -->
+					<section id="one" class="wrapper style1 special">
+						<div class="inner">
+							<header class="major">
+								<h2>About United KTM<br /></h2>
+								<p>The United KTM is Live To Ride Club which is uniting all the KTM riders all over Bangalore. You can find us on Streets of Bengaluru on almost all the weekends The Club is a well lot of planned riding system that is present in bangalore.Our Ride Is Our Pride</p>
+							</header>
+							<ul class="icons major">
+								<li><span class="icon fa-diamond major style1"><span class="label">Lorem</span></span></li>
+								<li><span class="icon fa-heart-o major style2"><span class="label">Ipsum</span></span></li>
+								<li><span class="icon fa-code major style3"><span class="label">Dolor</span></span></li>
+							</ul>
+						</div>
+					</section>
+
+				<!-- Two -->
+					<section id="two" class="wrapper alt style2">
+						<section class="spotlight">
+							<div class="image"><img src="images/pic01.jpg" alt="" /></div><div class="content">
+								<h2>Recent Rides<br />
+								</h2>
+								<p>The Latest ride the Club Conducted was to The Grandeur Of Karnataka The City of Mysore.Check Out Our Ride Gallery</p>
+							</div>
+						</section>
+						<section class="spotlight">
+							<div class="image"><img src="images/pic02.jpg" alt="" /></div><div class="content">
+								<h2>Upcoming Rides<br />
+								</h2>
+								<p>This Sunday Get Ready and Put On Your Riding Gear For another Fantastic Ride.Check in while for Updates on the ride<br><a href="Chat.html">Click Here</a> For More Updates</p>
+							</div>
+						</section>
+						<section class="spotlight">
+							<div class="image"><img src="images/pic03.jpg" alt="" /></div><div class="content">
+								<h2>United KTM Merchandise<br />
+								</h2>
+								<p>Wanted a Merchandise of United KTM Contact one of our club admins for further details</p>
+							</div>
+						</section>
+					</section>
+
+				<!-- Three -->
+<section>
+									<h2><center>Message US</center></h2>
+									<form method="post" action="#">
+										<div class="row uniform">
+											<div class="6u 12u$(xsmall)">
+												<input type="text" name="demo-name" id="demo-name" value="" placeholder="Name" />
+											</div>
+											<div class="6u$ 12u$(xsmall)">
+												<input type="email" name="demo-email" id="demo-email" value="" placeholder="Email" />
+											</div>
+											<div class="12u$">
+												<textarea name="demo-message" id="demo-message" placeholder="Enter your message" rows="6"></textarea>
+											</div>
+											<div class="12u$">
+												<ul class="actions">
+													<li><input type="submit" value="Send Message" class="special" /></li>
+													<li><input type="reset" value="Reset" /></li>
+												</ul>
+											</div>
+										</div>
+									</form>
+								</section>
+				<!-- Footer -->
+					<footer id="footer">
+						<ul class="icons">
+							<li><a href="https://www.facebook.com/pages/United-KTM/401485653382339" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+<embed src="lo.mp3" autostart="true" loop="false">
+						</ul>
+						<ul class="copyright">
+							<li>&copy; United KTM 2015</li><li>Design:Predator Design Studios</li>
+						</ul>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
